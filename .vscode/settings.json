@@ -1,6 +1,7 @@
 {
   // Spell checker settings
   "cSpell.maxNumberOfProblems": 100000,
+  "cSpell.files": ["**/*.json"],
   "cSpell.language": "fr",
   "cSpell.ignoreRegExpList": [
     "/\"[^\"]*\"(?=\\s*:)/", // Ignore JSON keys
